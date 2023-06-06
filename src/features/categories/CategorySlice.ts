@@ -26,10 +26,10 @@ const category: Category = {
 
 export const initialState = [
     category,
-    { ...category, id: "65851-2244adff-42s4-a15d5215", name: "Luiz"},
-    { ...category, id: "65851-2244adff-42s4-a15d5215", name: "Isaac"},
-    { ...category, id: "65851-2244adff-42s4-a15d5215", name: "Isabel"},
-    { ...category, id: "65851-2244adff-42s4-a15d5215", name: "Isadora"},
+    { ...category, id: "65851-2244adff-42s4-a15d5217", name: "Luiz"},
+    { ...category, id: "65851-2244adff-42s4-a15d5255", name: "Isaac"},
+    { ...category, id: "65851-2244adff-42s4-a15d5235", name: "Isabel"},
+    { ...category, id: "65851-2244adff-42s4-a15d5295", name: "Isadora"},
     { ...category, id: "65851-2244adff-42s4-a15d5215", name: "Israelle"}
   ];
 
