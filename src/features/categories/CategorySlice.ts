@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { RootState } from "../../app/store";
 
-interface Category {
+export interface Category {
   id: string;
   name: string;
   is_active: boolean;
